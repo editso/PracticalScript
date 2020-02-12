@@ -6,4 +6,4 @@
    `pip install -r requirements.txt && python3 city.py`
 
 * 获取源代码 && 使用脚本  
-    获取: git clone git@github.com:editso/PracticalScript.git -b CitySpider
+    获取: git clone https://github.com/editso/PracticalScript.git -b CitySpider
